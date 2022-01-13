@@ -7,7 +7,7 @@
 
 # **Some Common Questions** #
 
-=================================================================================================================================================
+
 **1. What is JavaScript?**
 
 ```
@@ -15,7 +15,7 @@ JavaScript is a text-based programming language used both on the client-side and
 Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
 ```
 
-=================================================================================================================================================
+
 **2. Is JavaScript easy and Simple to learn?**
 
 ```
@@ -24,12 +24,11 @@ It is a high-level, interpreted language that can easily be embedded with langua
 It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International.
 ```
 
-=================================================================================================================================================
+
 **3. Is Python better than JavaScript?**
 
 ```
 Hands down, JavaScript is undeniably better than Python for website development for one simple reason: JS runs in the browser while Python is a backend server-side language.
 Between JQuery, Angular, and React, JavaScript provides virtually endless capabilities for web programming.
 ```
-
-=================================================================================================================================================
+---
