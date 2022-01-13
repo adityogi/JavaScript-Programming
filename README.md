@@ -7,11 +7,10 @@
 
 # **Some Common Questions** #
 
-
 **1. What is JavaScript?**
 
 ```
-JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. 
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
 Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
 ```
 
@@ -19,8 +18,8 @@ Where HTML and CSS are languages that give structure and style to web pages, Jav
 **2. Is JavaScript easy and Simple to learn?**
 
 ```
-JavaScript is a simple and easy-to-learn programming language as compared to other languages such as C++, Ruby, and Python. 
-It is a high-level, interpreted language that can easily be embedded with languages like HTML. 
+JavaScript is a simple and easy-to-learn programming language as compared to other languages such as C++, Ruby, and Python.
+It is a high-level, interpreted language that can easily be embedded with languages like HTML.
 It was developed by Netscape Communications Corporation, Mozilla Foundation, and ECMA International.
 ```
 
