@@ -32,3 +32,4 @@ Between JQuery, Angular, and React, JavaScript provides virtually endless capabi
 ```
 ---
 Reference Video: <https://youtu.be/W6NZfCO5SIk>
+Q & A from Google Search
