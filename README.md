@@ -5,7 +5,7 @@
 - JavaScript is easy to learn.
 - This tutorial will teach you JavaScript from basic to advanced.
 
-# **Some Common Questions** #
+## **Some Common Questions** ##
 
 **1. What is JavaScript?**
 
@@ -31,5 +31,11 @@ Hands down, JavaScript is undeniably better than Python for website development 
 Between JQuery, Angular, and React, JavaScript provides virtually endless capabilities for web programming.
 ```
 ---
+
+### Examples##
+
+1. Print Hello World in the Console.
+
+
 Reference Video: <https://youtu.be/W6NZfCO5SIk>
 Q & A from Google Search
