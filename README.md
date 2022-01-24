@@ -40,5 +40,6 @@ View Here: <https://github.com/adityogi/JavaScript-Programming/blob/8f50d974d02e
 
 ## References
 
+- <https://github.com/programiz/js-course.git>
 - Reference Video: <https://youtu.be/W6NZfCO5SIk>
 - Q & A from Google Search
